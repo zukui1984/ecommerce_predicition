@@ -1,4 +1,4 @@
-# Midterm Project - Online Shoppers Purchasing Intention  
+# Capstone Project - Online Shoppers Purchasing Intention  
 
 ## Problem
 
